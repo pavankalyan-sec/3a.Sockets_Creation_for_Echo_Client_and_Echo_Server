@@ -11,23 +11,25 @@ Sockets Links.
 ## PROGRAM
 ## Client
 
-<img width="586" height="403" alt="Screenshot 2026-05-21 142222" src="https://github.com/user-attachments/assets/2d430748-6109-413d-a9da-2c3bb3b3660d" />
+<img width="506" height="365" alt="Screenshot 2026-05-21 143756" src="https://github.com/user-attachments/assets/1fb0028d-8e8a-46ca-9af9-9586fed54e02" />
+
 
 
 ## Server
 
-<img width="760" height="423" alt="Screenshot 2026-05-21 142239" src="https://github.com/user-attachments/assets/fd62d922-ad6a-4bcd-bb89-d91343d5ef9c" />
+<img width="598" height="323" alt="Screenshot 2026-05-21 143800" src="https://github.com/user-attachments/assets/5cc67078-f82f-4d46-a935-5fab53740ab8" />
+
 
 
 ## OUPUT
 ## Client
 
-<img width="740" height="213" alt="Screenshot 2026-05-21 142250" src="https://github.com/user-attachments/assets/c02332c6-4eaf-412e-b67a-a86636e2d927" />
+<img width="857" height="247" alt="Screenshot 2026-05-21 143810" src="https://github.com/user-attachments/assets/9b75815e-7818-4ef4-8016-78cf3b7b5b9e" />
 
 
 ## Server
 
-<img width="505" height="243" alt="Screenshot 2026-05-21 142259" src="https://github.com/user-attachments/assets/6dd7f69a-64d1-4ac7-b2a5-ce42c5d9a3cf" />
+<img width="557" height="171" alt="Screenshot 2026-05-21 143821" src="https://github.com/user-attachments/assets/1d976332-b900-4993-9726-8dce56251765" />
 
 
 ## RESULT
